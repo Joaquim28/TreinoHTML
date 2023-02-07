@@ -1,0 +1,1 @@
+Aqui será escrito tod código do Javascript
